@@ -7,12 +7,12 @@ Curves.css uses simple tags, that are easy to remember and get the hang of. Curr
 ### Colors
 There are 4 main colors, all of which will be fully customizable on the download website, so that you can personalize curves.css to fit your site and design.
 
-*Default*
-*Success*
-*Info*
-*Danger*
+*Default*,
+*Success*,
+*Info*,
+*Danger*,
 
 These can be used anywhere, and make it easy for you to define the color of different elements on your site.
 
 Example:
-> <p class="default">Lorem ipsum</p>
+> \<p class="default"\>Lorem ipsum\</p\>
