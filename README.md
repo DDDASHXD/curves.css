@@ -1,1 +1,2 @@
-# curves.css
+# Curves.css
+Curves.css is a simple, mordern and simple to use pure CSS framework made for amatuers and professionals alike. With it's super simple class system, built in mobile friendlyness and completely responsive design, this is the perfect framework to make your website just work and look beautiful at the same time.
