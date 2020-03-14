@@ -3,25 +3,45 @@
 :root {
   --default: #8686ff;
   --default-dark: #7676e3;
-  
+
   --success: #72D67F;
   --success-dark: #68C374;
-  
+
   --info: #F4BF2E;
   --info-dark: #DEAE2A;
-  
+
   --danger: #E85A5A;
   --danger-dark: #D35252;
+
+  --grey: #575757;
 }
 
 * {
-	font-family: "Montserrat", sans-serif;
+	font-family: "Roboto", sans-serif;
 	box-sizing: border-box;
+}
+
+.cs_title {
+  font-family: "Roboto Black", sans-serif;
+
 }
 
 a:active, a:focus {
   outline: 0;
   -moz-outline-style: none;
+  text-decoration: underline;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 button:active, button:focus {
@@ -34,8 +54,26 @@ button:active, button:focus {
 	margin: auto;
 }
 
+.cs_center.middle {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
 .cs_rounded {
 	border-radius: 16px;
+}
+
+.cs_list.horiz {
+	display: inline-block;
+  text-align: center;
+  float: none;
+  list-style-type: none;
+}
+
+.cs_list.horiz a {
+  padding: 5px;
 }
 
 /* BUTTONS */
@@ -112,6 +150,10 @@ button:active, button:focus {
 /* COLORS */
 
 /* SUCCESS */
+.success {
+	color: var(--success);
+}
+
 .cs_btn.success {
 	background-color: var(--success);
 }
@@ -158,6 +200,11 @@ tr.success {
 }
 
 /* INFO */
+
+.info {
+	color: var(--info);
+}
+
 .cs_btn.info {
 	background-color: var(--info);
 }
@@ -204,6 +251,11 @@ tr.info {
 }
 
 /* DANGER */
+
+.danger {
+	color: var(--danger);
+}
+
 .cs_btn.danger {
 	background-color: var(--danger);
 }
@@ -250,6 +302,11 @@ tr.danger {
 }
 
 /* default */
+
+.default {
+	color: var(--default);
+}
+
 .cs_btn.default {
 	background-color: var(--default);
 }
@@ -418,6 +475,28 @@ tr:last-of-type td:last-of-type {
   color: white;
 }
 
+.cs_border {
+	border-style: solid;
+	border-width: 1px;
+  border-radius: 16px;
+  padding: 10px;
+}
+
+.cs_border.borderxl {
+	border-style: solid;
+	border-width: 1px;
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.cs_border.borders {
+	border-style: solid;
+	border-width: 1px;
+  border-radius: 16px;
+  border-color: #575757;
+  padding: 5px;
+}
+
 
 @media screen and (max-width: 900px) {
 	.cs_c_4 {
@@ -431,7 +510,7 @@ tr:last-of-type td:last-of-type {
   }
 }
 
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 400px) {
   .cs_nav_side {padding-top: 15px;}
   .cs_nav_side a {font-size: 18px;}
 }
