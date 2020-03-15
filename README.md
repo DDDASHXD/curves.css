@@ -28,24 +28,24 @@ Pill button in different colors:
 
 #### Square
 Square button in different colors:
-![alt text] (https://i.gyazo.com/e6602f4245edf81d5cd558def3d06945.png "Different colored square buttons")
+![alt text](https://i.gyazo.com/e6602f4245edf81d5cd558def3d06945.png "Different colored square buttons")
 
 > \<button type="button" class="cs_btn cs_square *default* *success* *info* *danger*"\>Curves.css\</button\>
 
 #### Outline
 Outline button in different colors:
-![alt text] (https://i.gyazo.com/c8b76e9bf6b312179939d1db958826ba.png "Different colored outline buttons")
+![alt text](https://i.gyazo.com/c8b76e9bf6b312179939d1db958826ba.png "Different colored outline buttons")
 
 > \<button type="button" class="cs_btn cs_outline *default* *success* *info* *danger*"\>Curves.css\</button\>
 
 #### Round
 Round button in different colors:
-![alt text] (https://i.gyazo.com/2f18b9a77c2bc20b80d4ad067381352a.png "Different colored circle buttons")
+![alt text](https://i.gyazo.com/2f18b9a77c2bc20b80d4ad067381352a.png "Different colored circle buttons")
 
 > \<button type="button" class="cs_btn_round *default* *success* *info* *danger*"\>Curves.css\</button\>
 
 #### Link
 Link button in different colors:
-![alt text] (https://im3.ezgif.com/tmp/ezgif-3-ca2d360a948d.gif "Different colored link buttons")
+![alt text](https://im3.ezgif.com/tmp/ezgif-3-ca2d360a948d.gif "Different colored link buttons")
 
 > \<button type="button" class="cs_btn cs_link *default* *success* *info* *danger*"\>Curves.css\</button\>
