@@ -156,18 +156,22 @@ button:active, button:focus {
 
 .cs_btn.success {
 	background-color: var(--success);
+  color: #fff;
 }
 
 .cs_btn.success:hover {
 	background-color: var(--success-dark);
+  color: #fff;
 }
 
 .cs_btn_round.success {
 	background-color: var(--success);
+  color: #fff;
 }
 
 .cs_btn_round.success:hover {
 	background-color: var(--success-dark);
+  color: #fff;
 }
 
 .cs_outline.success {
@@ -193,10 +197,12 @@ button:active, button:focus {
 
 th.success {
 	background-color: var(--success);
+  color: #fff;
 }
 
 tr.success {
 	background-color: var(--success);
+  color: #fff;
 }
 
 /* INFO */
@@ -207,18 +213,22 @@ tr.success {
 
 .cs_btn.info {
 	background-color: var(--info);
+  color: #fff;
 }
 
 .cs_btn.info:hover {
 	background-color: var(--info-dark);
+  color: #fff;
 }
 
 .cs_btn_round.info {
 	background-color: var(--info);
+  color: #fff;
 }
 
 .cs_btn_round.info:hover {
 	background-color: var(--info-dark);
+  color: #fff;
 }
 
 .cs_outline.info {
@@ -244,10 +254,12 @@ tr.success {
 
 th.info {
 	background-color: var(--info);
+  color: #fff;
 }
 
 tr.info {
 	background-color: var(--info);
+  color: #fff;
 }
 
 /* DANGER */
@@ -258,18 +270,22 @@ tr.info {
 
 .cs_btn.danger {
 	background-color: var(--danger);
+  color: #fff;
 }
 
 .cs_btn.danger:hover {
 	background-color: var(--danger-dark);
+  color: #fff;
 }
 
 .cs_btn_round.danger {
 	background-color: var(--danger);
+  color: #fff;
 }
 
 .cs_btn_round.danger:hover {
 	background-color: var(--danger-dark);
+  color: #fff;
 }
 
 .cs_outline.danger {
@@ -295,10 +311,12 @@ tr.info {
 
 th.danger {
 	background-color: var(--danger);
+  color: #fff;
 }
 
 tr.danger {
 	background-color: var(--danger);
+  color: #fff;
 }
 
 /* default */
@@ -309,18 +327,22 @@ tr.danger {
 
 .cs_btn.default {
 	background-color: var(--default);
+  color: #fff;
 }
 
 .cs_btn.default:hover {
 	background-color: var(--default-dark);
+  color: #fff;
 }
 
 .cs_btn_round.default {
 	background-color: var(--default);
+  color: #fff;
 }
 
 .cs_btn_round.default:hover {
 	background-color: var(--default-dark);
+  color: #fff;
 }
 
 .cs_outline.default {
@@ -346,10 +368,12 @@ tr.danger {
 
 th.default {
 	background-color: var(--default);
+  color: #fff;
 }
 
 tr.default {
 	background-color: var(--default);
+  color: #fff;
 }
 
 /* GRIDS */

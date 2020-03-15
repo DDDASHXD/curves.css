@@ -9,8 +9,8 @@ There are 4 main colors, all of which will be fully customizable on the download
 
 *Default*,
 *Success*,
-*Info*,
-*Danger*,
+*Info* and 
+*Danger*
 
 These can be used anywhere, and make it easy for you to define the color of different elements on your site.
 
