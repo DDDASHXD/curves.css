@@ -16,3 +16,12 @@ These can be used anywhere, and make it easy for you to define the color of diff
 
 Example:
 > \<p class="default"\>Lorem ipsum\</p\>
+
+### Buttons
+Curves.css has several types of buttons.
+
+#### Pill
+Default pill button:
+![alt text](https://i.gyazo.com/e4114706be009cc4464baad93687df1a.png "Default pill button")
+> \<button type="button" class="cs_btn"\>Curves.css\</button\>
+
