@@ -22,6 +22,7 @@ Curves.css has several types of buttons.
 
 #### Pill
 Default pill button:
-![alt text](https://i.gyazo.com/e4114706be009cc4464baad93687df1a.png "Default pill button")
-> \<button type="button" class="cs_btn"\>Curves.css\</button\>
+![alt text](https://i.gyazo.com/e4114706be009cc4464baad93687df1a.png "Default pill button")![alt text](https://i.gyazo.com/4eda9de1faedb95087de6d5fe2da1051.png "Success pill button")![alt text](https://gyazo.com/c2c97b4b09c66c1af28b2a3d57928e4e "Info pill button")
+
+> \<button type="button" class="cs_btn *default* *success* *info* *danger*"\>Curves.css\</button\>
 
